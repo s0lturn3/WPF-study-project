@@ -14,3 +14,7 @@ C:\projetos\WPFStudyProject\WPFStudyProject\obj\Debug\WPFStudyProject.csproj.Cor
 C:\projetos\WPFStudyProject\WPFStudyProject\obj\Debug\WPFStudyProject.exe
 C:\projetos\WPFStudyProject\WPFStudyProject\obj\Debug\WPFStudyProject.pdb
 C:\projetos\WPFStudyProject\WPFStudyProject\obj\Debug\WPFStudyProject.csproj.AssemblyReference.cache
+C:\projetos\WPFStudyProject\WPFStudyProject\bin\Debug\WPFStudyProject.exe.manifest
+C:\projetos\WPFStudyProject\WPFStudyProject\bin\Debug\WPFStudyProject.application
+C:\projetos\WPFStudyProject\WPFStudyProject\obj\Debug\WPFStudyProject.exe.manifest
+C:\projetos\WPFStudyProject\WPFStudyProject\obj\Debug\WPFStudyProject.application
