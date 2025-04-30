@@ -1,0 +1,16 @@
+C:\projetos\ConfiguradorReborn\ConfiguradorReborn\obj\Debug\ConfiguradorReborn.csproj.AssemblyReference.cache
+C:\projetos\ConfiguradorReborn\ConfiguradorReborn\obj\Debug\MainWindow.g.cs
+C:\projetos\ConfiguradorReborn\ConfiguradorReborn\obj\Debug\App.g.cs
+C:\projetos\ConfiguradorReborn\ConfiguradorReborn\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\projetos\ConfiguradorReborn\ConfiguradorReborn\obj\Debug\ConfiguradorReborn_MarkupCompile.cache
+C:\projetos\ConfiguradorReborn\ConfiguradorReborn\obj\Debug\ConfiguradorReborn_MarkupCompile.lref
+C:\projetos\ConfiguradorReborn\ConfiguradorReborn\bin\Debug\ConfiguradorReborn.exe.config
+C:\projetos\ConfiguradorReborn\ConfiguradorReborn\bin\Debug\ConfiguradorReborn.exe
+C:\projetos\ConfiguradorReborn\ConfiguradorReborn\bin\Debug\ConfiguradorReborn.pdb
+C:\projetos\ConfiguradorReborn\ConfiguradorReborn\obj\Debug\MainWindow.baml
+C:\projetos\ConfiguradorReborn\ConfiguradorReborn\obj\Debug\ConfiguradorReborn.g.resources
+C:\projetos\ConfiguradorReborn\ConfiguradorReborn\obj\Debug\ConfiguradorReborn.Properties.Resources.resources
+C:\projetos\ConfiguradorReborn\ConfiguradorReborn\obj\Debug\ConfiguradorReborn.csproj.GenerateResource.cache
+C:\projetos\ConfiguradorReborn\ConfiguradorReborn\obj\Debug\ConfiguradorReborn.csproj.CoreCompileInputs.cache
+C:\projetos\ConfiguradorReborn\ConfiguradorReborn\obj\Debug\ConfiguradorReborn.exe
+C:\projetos\ConfiguradorReborn\ConfiguradorReborn\obj\Debug\ConfiguradorReborn.pdb

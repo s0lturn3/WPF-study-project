@@ -1,0 +1,16 @@
+C:\projetos\WPFStudyProject\WPFStudyProject\bin\Debug\WPFStudyProject.exe.config
+C:\projetos\WPFStudyProject\WPFStudyProject\bin\Debug\WPFStudyProject.exe
+C:\projetos\WPFStudyProject\WPFStudyProject\bin\Debug\WPFStudyProject.pdb
+C:\projetos\WPFStudyProject\WPFStudyProject\obj\Debug\MainWindow.g.cs
+C:\projetos\WPFStudyProject\WPFStudyProject\obj\Debug\App.g.cs
+C:\projetos\WPFStudyProject\WPFStudyProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\projetos\WPFStudyProject\WPFStudyProject\obj\Debug\WPFStudyProject_MarkupCompile.cache
+C:\projetos\WPFStudyProject\WPFStudyProject\obj\Debug\WPFStudyProject_MarkupCompile.lref
+C:\projetos\WPFStudyProject\WPFStudyProject\obj\Debug\MainWindow.baml
+C:\projetos\WPFStudyProject\WPFStudyProject\obj\Debug\WPFStudyProject.g.resources
+C:\projetos\WPFStudyProject\WPFStudyProject\obj\Debug\WPFStudyProject.Properties.Resources.resources
+C:\projetos\WPFStudyProject\WPFStudyProject\obj\Debug\WPFStudyProject.csproj.GenerateResource.cache
+C:\projetos\WPFStudyProject\WPFStudyProject\obj\Debug\WPFStudyProject.csproj.CoreCompileInputs.cache
+C:\projetos\WPFStudyProject\WPFStudyProject\obj\Debug\WPFStudyProject.exe
+C:\projetos\WPFStudyProject\WPFStudyProject\obj\Debug\WPFStudyProject.pdb
+C:\projetos\WPFStudyProject\WPFStudyProject\obj\Debug\WPFStudyProject.csproj.AssemblyReference.cache
